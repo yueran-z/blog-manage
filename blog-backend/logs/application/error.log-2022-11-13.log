@@ -1,0 +1,72 @@
+[2022-11-13T17:18:03.399] [ERROR] app - {
+  message: 'body-password是string必須參數,格式为大小写字母各一个，至少8位，至多16位',
+  status: 400
+}
+[2022-11-13T17:18:18.229] [ERROR] app - {
+  message: 'body-password是string必須參數,格式为大小写字母各一个，至少8位，至多16位',
+  status: 400
+}
+[2022-11-13T17:18:22.088] [ERROR] app - {
+  message: 'body-password是string必須參數,格式为大小写字母各一个，至少8位，至多16位',
+  status: 400
+}
+[2022-11-13T17:18:28.361] [ERROR] app - { message: 'username is not defined', status: 500 }
+[2022-11-13T17:18:38.335] [ERROR] app - { message: 'username is not defined', status: 500 }
+[2022-11-13T17:18:50.662] [ERROR] app - { message: 'username is not defined', status: 500 }
+[2022-11-13T17:30:18.694] [ERROR] app - { message: 'username is not defined', status: 500 }
+[2022-11-13T17:30:19.662] [ERROR] app - { message: 'username is not defined', status: 500 }
+[2022-11-13T17:30:20.051] [ERROR] app - { message: 'username is not defined', status: 500 }
+[2022-11-13T17:30:20.376] [ERROR] app - { message: 'username is not defined', status: 500 }
+[2022-11-13T17:30:20.743] [ERROR] app - { message: 'username is not defined', status: 500 }
+[2022-11-13T17:30:21.102] [ERROR] app - { message: 'username is not defined', status: 500 }
+[2022-11-13T17:30:32.365] [ERROR] app - { message: 'username is not defined', status: 500 }
+[2022-11-13T17:30:33.444] [ERROR] app - { message: 'username is not defined', status: 500 }
+[2022-11-13T17:30:36.077] [ERROR] app - { message: 'username is not defined', status: 500 }
+[2022-11-13T17:30:36.697] [ERROR] app - { message: 'username is not defined', status: 500 }
+[2022-11-13T17:30:39.809] [ERROR] app - { message: 'username is not defined', status: 500 }
+[2022-11-13T17:32:43.093] [ERROR] app - {
+  message: 'body-password是string必須參數,格式为大小写字母各一个，至少8位，至多16位',
+  status: 400
+}
+[2022-11-13T17:33:38.798] [ERROR] app - { message: 'username is not defined', status: 500 }
+[2022-11-13T17:33:48.202] [ERROR] app - { message: 'username is not defined', status: 500 }
+[2022-11-13T17:33:48.951] [ERROR] app - { message: 'username is not defined', status: 500 }
+[2022-11-13T17:33:49.319] [ERROR] app - { message: 'username is not defined', status: 500 }
+[2022-11-13T17:33:49.757] [ERROR] app - { message: 'username is not defined', status: 500 }
+[2022-11-13T17:33:50.267] [ERROR] app - { message: 'username is not defined', status: 500 }
+[2022-11-13T18:58:25.106] [ERROR] app - { message: 'username is not defined', status: 500 }
+[2022-11-13T18:58:27.553] [ERROR] app - { message: 'username is not defined', status: 500 }
+[2022-11-13T20:35:10.487] [ERROR] app - { message: 'username is not defined', status: 500 }
+[2022-11-13T20:35:12.824] [ERROR] app - { message: 'username is not defined', status: 500 }
+[2022-11-13T20:35:14.007] [ERROR] app - { message: 'username is not defined', status: 500 }
+[2022-11-13T20:35:15.043] [ERROR] app - { message: 'username is not defined', status: 500 }
+[2022-11-13T20:35:15.956] [ERROR] app - { message: 'username is not defined', status: 500 }
+[2022-11-13T20:35:16.681] [ERROR] app - { message: 'username is not defined', status: 500 }
+[2022-11-13T20:35:17.329] [ERROR] app - { message: 'username is not defined', status: 500 }
+[2022-11-13T20:35:17.713] [ERROR] app - { message: 'username is not defined', status: 500 }
+[2022-11-13T20:35:30.817] [ERROR] app - { message: 'username is not defined', status: 500 }
+[2022-11-13T20:40:58.088] [ERROR] app - { message: 'username is not defined', status: 500 }
+[2022-11-13T20:41:33.095] [ERROR] app - { message: 'username is not defined', status: 500 }
+[2022-11-13T20:41:33.986] [ERROR] app - { message: 'username is not defined', status: 500 }
+[2022-11-13T20:41:34.323] [ERROR] app - { message: 'username is not defined', status: 500 }
+[2022-11-13T20:41:34.892] [ERROR] app - { message: 'username is not defined', status: 500 }
+[2022-11-13T20:41:44.346] [ERROR] app - { message: 'username is not defined', status: 500 }
+[2022-11-13T20:45:04.784] [ERROR] app - { message: 'username is not defined', status: 500 }
+[2022-11-13T20:45:55.990] [ERROR] app - { message: 'username is not defined', status: 500 }
+[2022-11-13T20:47:06.551] [ERROR] app - { message: 'username is not defined', status: 500 }
+[2022-11-13T20:47:07.583] [ERROR] app - { message: 'username is not defined', status: 500 }
+[2022-11-13T20:47:08.420] [ERROR] app - { message: 'username is not defined', status: 500 }
+[2022-11-13T20:47:09.196] [ERROR] app - { message: 'username is not defined', status: 500 }
+[2022-11-13T20:47:12.531] [ERROR] app - { message: 'username is not defined', status: 500 }
+[2022-11-13T20:53:22.160] [ERROR] app - { message: 'username is not defined', status: 500 }
+[2022-11-13T20:53:24.093] [ERROR] app - { message: 'username is not defined', status: 500 }
+[2022-11-13T20:53:31.047] [ERROR] app - { message: 'body-username是string必須參數,最小為3位,最大为10位', status: 400 }
+[2022-11-13T20:53:51.950] [ERROR] app - { message: 'username is not defined', status: 500 }
+[2022-11-13T20:53:53.679] [ERROR] app - { message: 'username is not defined', status: 500 }
+[2022-11-13T21:06:05.080] [ERROR] app - { message: 'username is not defined', status: 500 }
+[2022-11-13T21:06:23.604] [ERROR] app - { message: 'username is not defined', status: 500 }
+[2022-11-13T22:08:24.339] [ERROR] app - { message: 'Authentication Error', status: 401 }
+[2022-11-13T22:09:01.552] [ERROR] app - { message: 'Authentication Error', status: 401 }
+[2022-11-13T22:09:14.813] [ERROR] app - { message: 'Authentication Error', status: 401 }
+[2022-11-13T22:10:15.720] [ERROR] app - { message: 'Authentication Error', status: 401 }
+[2022-11-13T22:10:16.925] [ERROR] app - { message: 'Authentication Error', status: 401 }

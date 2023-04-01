@@ -1,0 +1,2 @@
+[2022-11-11T10:30:49.644] [INFO] http - ::1 - - "POST /users/login HTTP/1.1" 200 82 "" "PostmanRuntime/7.28.2"
+[2022-11-11T10:31:00.542] [ERROR] http - ::1 - - "POST /users/login HTTP/1.1" 400 134 "" "PostmanRuntime/7.28.2"

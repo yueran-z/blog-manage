@@ -1,0 +1,5 @@
+[2022-11-18T23:38:58.274] [INFO] http - ::1 - - "POST /articles/ HTTP/1.1" 200 30 "" "PostmanRuntime/7.28.2"
+[2022-11-18T23:57:08.202] [ERROR] http - ::1 - - "POST /articles/ HTTP/1.1" 500 100 "" "PostmanRuntime/7.28.2"
+[2022-11-18T23:57:14.494] [ERROR] http - ::1 - - "POST /articles/ HTTP/1.1" 500 100 "" "PostmanRuntime/7.28.2"
+[2022-11-18T23:58:04.581] [INFO] http - ::1 - - "POST /articles/ HTTP/1.1" 200 267 "" "PostmanRuntime/7.28.2"
+[2022-11-18T23:59:12.574] [INFO] http - ::1 - - "POST /articles/ HTTP/1.1" 200 280 "" "PostmanRuntime/7.28.2"

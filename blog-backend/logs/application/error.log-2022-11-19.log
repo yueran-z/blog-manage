@@ -1,0 +1,22 @@
+[2022-11-19T08:43:03.625] [ERROR] app - {
+  message: 'ctx.model.Article.validateAsync is not a function',
+  status: 500
+}
+[2022-11-19T08:44:18.635] [ERROR] app - {
+  message: "Cannot read properties of undefined (reading 'validateAsync')",
+  status: 500
+}
+[2022-11-19T08:47:45.682] [ERROR] app - { message: 'param-id为number类型必須參數', status: 400 }
+[2022-11-19T10:02:06.576] [ERROR] app - { message: 'articleById.update is not a function', status: 500 }
+[2022-11-19T10:06:47.209] [ERROR] app - { message: 'articleById.update is not a function', status: 500 }
+[2022-11-19T10:06:48.290] [ERROR] app - { message: 'articleById.update is not a function', status: 500 }
+[2022-11-19T10:06:49.060] [ERROR] app - { message: 'articleById.update is not a function', status: 500 }
+[2022-11-19T10:06:49.813] [ERROR] app - { message: 'articleById.update is not a function', status: 500 }
+[2022-11-19T10:06:50.687] [ERROR] app - { message: 'articleById.update is not a function', status: 500 }
+[2022-11-19T10:13:10.513] [ERROR] app - { message: 'articleById.update is not a function', status: 500 }
+[2022-11-19T12:45:35.448] [ERROR] app - { message: '"type" is not allowed', status: 500 }
+[2022-11-19T12:46:03.016] [ERROR] app - { message: '"type" is not allowed', status: 500 }
+[2022-11-19T12:46:39.462] [ERROR] app - { message: '"type" is not allowed', status: 500 }
+[2022-11-19T12:47:49.916] [ERROR] app - { message: '"type" is not allowed', status: 500 }
+[2022-11-19T12:50:07.820] [ERROR] app - { message: 'body-type为string类型且范围为[ blogs, books]', status: 400 }
+[2022-11-19T12:53:43.620] [ERROR] app - { message: 'Authentication Error', status: 401 }

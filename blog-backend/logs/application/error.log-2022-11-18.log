@@ -1,0 +1,8 @@
+[2022-11-18T23:57:08.200] [ERROR] app - {
+  message: "Cannot read properties of undefined (reading 'validateAsync')",
+  status: 500
+}
+[2022-11-18T23:57:14.493] [ERROR] app - {
+  message: "Cannot read properties of undefined (reading 'validateAsync')",
+  status: 500
+}

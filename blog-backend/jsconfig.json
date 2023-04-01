@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "target": "es2020",//es提示
+    "module": "commonJS" //包的規範
+  },
+  "include": ["./src", "./bin"],//哪些目錄需要es
+  "exclude": ["./node_modules","./logs"]
+}

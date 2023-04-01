@@ -1,0 +1,36 @@
+[2022-11-09T23:23:26.913] [ERROR] app - TypeError: Assignment to constant variable.
+    at D:\Products\blog-backend\src\middlewares\handler\error.js:33:16
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async D:\Products\blog-backend\node_modules\koa-log4\koa-logger.js:86:7
+[2022-11-09T23:23:45.585] [ERROR] app - TypeError: Assignment to constant variable.
+    at D:\Products\blog-backend\src\middlewares\handler\error.js:33:16
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async D:\Products\blog-backend\node_modules\koa-log4\koa-logger.js:86:7
+[2022-11-09T23:24:11.698] [ERROR] app - TypeError: Assignment to constant variable.
+    at D:\Products\blog-backend\src\middlewares\handler\error.js:33:16
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async D:\Products\blog-backend\node_modules\koa-log4\koa-logger.js:86:7
+[2022-11-09T23:24:27.734] [ERROR] app - TypeError: Assignment to constant variable.
+    at D:\Products\blog-backend\src\middlewares\handler\error.js:33:16
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async D:\Products\blog-backend\node_modules\koa-log4\koa-logger.js:86:7
+[2022-11-09T23:24:28.868] [ERROR] app - TypeError: Assignment to constant variable.
+    at D:\Products\blog-backend\src\middlewares\handler\error.js:33:16
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async D:\Products\blog-backend\node_modules\koa-log4\koa-logger.js:86:7
+[2022-11-09T23:24:37.282] [ERROR] app - TypeError: Assignment to constant variable.
+    at D:\Products\blog-backend\src\middlewares\handler\error.js:33:16
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async D:\Products\blog-backend\node_modules\koa-log4\koa-logger.js:86:7
+[2022-11-09T23:24:38.340] [ERROR] app - TypeError: Assignment to constant variable.
+    at D:\Products\blog-backend\src\middlewares\handler\error.js:33:16
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async D:\Products\blog-backend\node_modules\koa-log4\koa-logger.js:86:7
+[2022-11-09T23:24:39.300] [ERROR] app - TypeError: Assignment to constant variable.
+    at D:\Products\blog-backend\src\middlewares\handler\error.js:33:16
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async D:\Products\blog-backend\node_modules\koa-log4\koa-logger.js:86:7
+[2022-11-09T23:27:10.203] [ERROR] app - {
+  message: 'body-password是string必須參數,格式为大小写字母各一个，至少8位，至多16位',
+  status: 400
+}

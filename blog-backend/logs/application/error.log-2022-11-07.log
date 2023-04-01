@@ -1,0 +1,16 @@
+[2022-11-07T12:59:26.141] [ERROR] app - {
+  message: "Cannot read properties of undefined (reading 'body')",
+  status: undefined
+}
+[2022-11-07T13:04:29.000] [ERROR] app - {
+  message: 'Joi.string(...).min(...).required(...).error is not a function',
+  status: undefined
+}
+[2022-11-07T13:05:04.775] [ERROR] app - {
+  message: 'Joi.string(...).min(...).required(...).error is not a function',
+  status: undefined
+}
+[2022-11-07T13:05:17.008] [ERROR] app - {
+  message: 'Joi.string(...).min(...).required(...).error is not a function',
+  status: undefined
+}

@@ -1,0 +1,4 @@
+[2022-11-11T10:31:00.542] [ERROR] app - {
+  message: 'body-password是string必須參數,格式为大小写字母各一个，至少8位，至多16位',
+  status: 400
+}
